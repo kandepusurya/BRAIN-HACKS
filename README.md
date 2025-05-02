@@ -24,17 +24,7 @@ Autocomplete search box powered by JavaScript.
 
 Each theme sets a unique background video that persists across pages.
 
-🚀 How to Run
-1️⃣ Clone the repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/YOUR_USERNAME/BRAIN-HACKS.git
-cd BRAIN-HACKS
-2️⃣ Open the App:
-
-Launch index.html in your preferred browser.
 
 📂 Project Structure
 File / Folder	Purpose
